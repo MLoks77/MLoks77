@@ -1,4 +1,5 @@
-Bonjour a tous, c'est MLoks, je suis un étudiant en BUT MMI, on touche un peu à tous en terme de programmation mais je vais utiliser mon compte github pour mes travaux persos ou mes devoirs. ♥
+Hi, my name is Loks, im a french student and this Github is dedicated to my projects or my homework.
 
-![image](https://github.com/user-attachments/assets/c8d6f88e-03f8-44a9-9f8f-e0ca77f120aa)
+![image](https://github.com/user-attachments/assets/d6a3e362-29bb-4d87-a025-19395769141a)
+
 
