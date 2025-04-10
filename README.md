@@ -1,6 +1,6 @@
 🎓 Bachelor's in Multimedia and Internet Technologies (BUT MMI) <br>
 💡 Aspiring Game Designer & Multimedia Developer <br>
-🎨 Passionate about design, web development, and interactive experiences <br>
+🎨 Passionate about design, web development, and interactive experiences  <br>
 
 🚀 About Me <br>
 I'm currently studying Multimedia and Internet Technologies, where I explore web development, UI/UX design and digital content creation. 
