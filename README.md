@@ -1,25 +1,78 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MLoks77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MLoks77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">Bienvenue sur mon univers numérique 🧠💻</h1>
+<p align="center">
+  <em>Créateur d’expériences interactives, passionné par le code, les jeux vidéo et l’innovation.</em>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MLoks77&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MLoks77&radius=16&theme=redical&area=true&order=5&custom_title=Contributions&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+## Qui suis-je ?
+- 🎓 **Formation** : Issu d’un parcours MMI, passionné par le développement web, le graphisme et l’informatique.
+- 🛠️ **Stack** : Full Stack — du front au back
+- 🌱 **Actuellement** : J'apprend de nouveaux languages
 
-###
+---
 
-<div align="center">
-  <img height="200" src="https://i.redd.it/03m0novsfb5f1.gif"  />
-</div>
+## 🧰 Compétences techniques
 
-###
+### 🔧 Langages & Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="11%" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MLoks77.MLoks77&right_color=crimson&left_text=Visitors"  />
-</div>
+### 🎨 Création & Outils
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="11%" />
+</p>
 
-###
+---
+
+## 🚀 Projets phares
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| [Site de réservation de matériel Universitaire](https://github.com/MLoks77/SAE203) | Site de réservation pour l'IUT Gustave Eiffel de Meaux, en France pour les élèves et les professeurs | `PHP`, `MySQL`, `JS`, `Bootstrap`, `CSS` ?`AJAX` |
+| [Yakadanse](https://yakadanse.alwaysdata.net/index.php) | Site de l'association Yakadanse, avec un controlpanel admin remplis d'interaction avec le site afin de permettre une utilisation autonome pour l'association | `PHP`, `MySQL`, `JS`, `Tailwind`, `CSS` , `AJAX` |
+| [MaxMO](github.com/MLoks77?tab=repositories) | Un site web utilisant OpenCV.JS afin de permettre de modifier une image. | `OpenCV.js`, `Tailwind`, `HTML` |
+| [Site Portfolio](github.com/MLoks77?tab=repositories) | Mon Portfolio | `PHP`, `tailwind`, `SQL`, `SQL` |
+
+📁 Découvre d’autres projets dans mes [repositories publics](https://github.com/MLoks77?tab=repositories)
+
+---
+
+## 📊 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MLoks77&show_icons=true&theme=radical&locale=fr&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLoks77&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MLoks77&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MLoks77&theme=redical&area=true&hide_border=true&custom_title=Activité%20récente" height="300" />
+</p>
+
+---
+
+## 🤝 Collaborations & contributions
+- Ouvert aux projets open source, challenges créatifs ou collaborations freelances.
+- Envie de discuter d’un projet ou d’une idée ? 👉 [Contacte-moi sur LinkedIn](https://www.linkedin.com/in/maxime-derènes-9b997932a/)
+
+
+---
+
+<p align="center">
+  <img src="https://i.redd.it/03m0novsfb5f1.gif" height="200" />
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MLoks77.MLoks77&right_color=crimson&left_text=Visiteurs" />
+</p>
