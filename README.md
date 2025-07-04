@@ -7,7 +7,7 @@
 
 ## Qui suis-je ?
 - 🎓 **Formation** : Issu d’un parcours MMI, passionné par le développement web, le graphisme et l’informatique.
-- 🛠️ **Stack** : Full Stack — du front au back
+- 🛠️ **Stack** : Full Stack, du front au back et design
 - 🌱 **Actuellement** : J'apprend de nouveaux languages
 
 ---
@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="11%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="11%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="11%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="11%" />
 </p>
 
 ---
