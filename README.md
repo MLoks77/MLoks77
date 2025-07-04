@@ -43,8 +43,8 @@
 |--------|-------------|--------------|
 | [Site de réservation de matériel Universitaire](https://github.com/MLoks77/SAE203) | Site de réservation pour l'IUT Gustave Eiffel de Meaux, en France pour les élèves et les professeurs | `PHP`, `MySQL`, `JS`, `Bootstrap`, `CSS` ?`AJAX` |
 | [Yakadanse](https://yakadanse.alwaysdata.net/index.php) | Site de l'association Yakadanse, avec un controlpanel admin remplis d'interaction avec le site afin de permettre une utilisation autonome pour l'association | `PHP`, `MySQL`, `JS`, `Tailwind`, `CSS` , `AJAX` |
-| [MaxMO](github.com/MLoks77?tab=repositories) | Un site web utilisant OpenCV.JS afin de permettre de modifier une image. | `OpenCV.js`, `Tailwind`, `HTML` |
-| [Site Portfolio](github.com/MLoks77?tab=repositories) | Mon Portfolio | `PHP`, `tailwind`, `SQL`, `SQL` |
+| [MaxMO](https://github.com/MLoks77/Max.MO) | Un site web utilisant OpenCV.JS afin de permettre de modifier une image. | `OpenCV.js`, `Tailwind`, `HTML` |
+| [Site Portfolio](https://github.com/MLoks77/SITECV) | Mon Portfolio | `PHP`, `tailwind`, `SQL`, `SQL` |
 
 📁 Découvre d’autres projets dans mes [repositories publics](https://github.com/MLoks77?tab=repositories)
 
