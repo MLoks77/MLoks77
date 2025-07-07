@@ -48,7 +48,7 @@
 | [Yakadanse](https://yakadanse.alwaysdata.net/index.php) | Site de l'association Yakadanse, avec un controlpanel admin remplis d'interaction avec le site afin de permettre une utilisation autonome pour l'association | `PHP`, `MySQL`, `JS`, `Tailwind`, `CSS` , `AJAX` |
 | [MaxMO](https://github.com/MLoks77/Max.MO) | Un site web utilisant OpenCV.JS afin de permettre de modifier une image. | `OpenCV.js`, `Tailwind`, `HTML` |
 | [Site Portfolio](https://github.com/MLoks77/SITECV) | Mon Portfolio | `PHP`, `tailwind`, `SQL`, `SQL` |
-| [ShowMyFinds](https://github.com/MLoks77/ShowMyFinds) | application permettant aux collectionneurs d’organiser et de présenter leurs trouvailles dans une collection. | `HTML`, `Tailwind`, `PHP`, `SQL`, `Chart.JS`, `SQlite`, `Electron.JS` |
+| [ShowMyFinds] | application permettant aux collectionneurs d’organiser et de présenter leurs trouvailles dans une collection. | `HTML`, `Tailwind`, `PHP`, `SQL`, `Chart.JS`, `SQlite`, `Electron.JS` |
 
 📁 Découvre d’autres projets dans mes [repositories publics](https://github.com/MLoks77?tab=repositories)
 
