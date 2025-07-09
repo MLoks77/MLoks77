@@ -12,9 +12,9 @@
 
 ---
 
-## 🧰 Compétences techniques
+### 🧰 Compétences techniques
 
-## 🔧 Langages & Frameworks appris<br><br>
+### 🔧 Langages & Frameworks appris<br><br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="11%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="11%" />
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="11%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="11%" />
 </p>
-### 🔧 Langages & Frameworks en cours d'apprentissage<br><br>
+ 🔧 Langages & Frameworks en cours d'apprentissage<br><br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="11%" />
   <img src="https://github.com/user-attachments/assets/608db894-86f4-4aed-b060-23b0a78035d2" width="11%"/>
