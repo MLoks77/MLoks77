@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="11%" />
   <img src="https://github.com/user-attachments/assets/608db894-86f4-4aed-b060-23b0a78035d2" width="11%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="11%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="11%" />
+
 </p>
 
 ### 🎨 Création & Outils<br><br>
