@@ -1,16 +1,7 @@
-<h1 align="center">Bienvenue sur mon univers numérique 🧠💻</h1>
+<h1 align="center">Bienvenue sur mon github</h1>
 <p align="center">
   <em>Créateur d’expériences interactives, passionné par le code, les jeux vidéo et l’innovation.</em>
 </p>
-
----
-
-## Qui suis-je ?
-- 🎓 **Formation** : Issu d’un parcours MMI, passionné par le développement web, le graphisme et l’informatique.
-- 🛠️ **Stack** : Full Stack, du front au back et design
-- 🌱 **Actuellement** : J'apprend de nouveaux languages
-
----
 
 ### 🧰 Compétences techniques
 
@@ -42,23 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="11%" />
 </p>
 
----
-
-## 🚀 Projets phares
-
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| [Site de réservation de matériel Universitaire](https://github.com/MLoks77/SAE203) | Site de réservation pour l'IUT Gustave Eiffel de Meaux, en France pour les élèves et les professeurs | `PHP`, `MySQL`, `JS`, `Bootstrap`, `CSS` ?`AJAX` |
-| [Yakadanse] | Site de l'association Yakadanse, avec un controlpanel admin remplis d'interaction avec le site afin de permettre une utilisation autonome pour l'association | `PHP`, `MySQL`, `JS`, `Tailwind`, `CSS` , `AJAX` |
-| [MaxMO](https://github.com/MLoks77/Max.MO) | Un site web utilisant OpenCV.JS afin de permettre de modifier une image. | `OpenCV.js`, `Tailwind`, `HTML` |
-| [Site Portfolio] | Mon Portfolio | `PHP`, `tailwind`, `SQL`, `SQL` |
-| [ShowMyFinds] | application permettant aux collectionneurs d’organiser et de présenter leurs trouvailles dans une collection. | `HTML`, `Tailwind`, `PHP`, `SQL`, `Chart.JS`, `SQlite`, `Electron.JS` |
-
-📁 Découvre d’autres projets dans mes [repositories publics](https://github.com/MLoks77?tab=repositories)
-
----
-
-## 📊 Mes stats GitHub
+## Mes stats GitHub
 <section class="display flex"
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MLoks77&show_icons=true&theme=radical&locale=fr&hide_border=true" height="150" />
@@ -71,10 +46,9 @@
 
 ---
 
-## 🤝 Collaborations & contributions
+## Collaborations & contributions
 - Ouvert aux projets open source, challenges créatifs ou collaborations freelances.
 - Envie de discuter d’un projet ou d’une idée ? 👉 [Contacte-moi sur LinkedIn](https://www.linkedin.com/in/maxime-derènes-9b997932a/)
-
 
 ---
 
