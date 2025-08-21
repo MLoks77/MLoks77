@@ -1,7 +1,4 @@
-<h1 align="center">Bienvenue sur mon github</h1>
-<p align="center">
-  <em>Créateur d’expériences interactives, passionné par le code, les jeux vidéo et l’innovation.</em>
-</p>
+<h1 align="center">Salut c'est mon Github</h1>
 
 ### 🧰 Compétences techniques
 
