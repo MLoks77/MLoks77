@@ -1,7 +1,5 @@
 <h1 align="center">Salut c'est mon Github</h1>
 
-### 🧰 Compétences techniques
-
 ### Fiche technique <br><br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="11%" />
