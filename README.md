@@ -32,18 +32,8 @@ En apprentissage<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="11%" />
 </p>
 
-## Mes stats GitHub
-<section class="display flex"
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MLoks77&show_icons=true&theme=radical&locale=fr&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLoks77&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MLoks77&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MLoks77&theme=redical&area=true&hide_border=true&custom_title=Activité%20récente" height="300" />
-</p>
 
----
 
 ## Collaborations & contributions
 - Ouvert aux projets open source, challenges créatifs ou collaborations freelances.
