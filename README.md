@@ -42,8 +42,5 @@ En apprentissage<br><br>
 ---
 
 <p align="center">
-  <img src="https://i.redd.it/03m0novsfb5f1.gif" height="200" />
-</p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MLoks77.MLoks77&right_color=crimson&left_text=Visiteurs" />
+  <img width="220" height="220" alt="gif" src="https://github.com/user-attachments/assets/0ed8f458-dca9-4787-8279-8adb3014325d" />
 </p>
