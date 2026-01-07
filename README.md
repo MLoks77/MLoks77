@@ -1,10 +1,10 @@
 <h1 align="center">Salut c'est mon Github</h1>
 
 
-Portfolio
--> https://xn--maxime-dernes-5gb.fr/?i=1
-Linkedin
--> https://www.linkedin.com/in/maxime-derènes-9b997932a/
+<h2>Portfolio</h2> <br>
+-> https://xn--maxime-dernes-5gb.fr/?i=1 <br>
+<h2>Linkedin</h2><br>
+-> https://www.linkedin.com/in/maxime-derènes-9b997932a/<br>
 
 
 ## Collaborations & contributions
