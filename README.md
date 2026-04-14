@@ -2,7 +2,7 @@
 
 
 <h2>Portfolio</h2> <br>
--> https://xn--maxime-dernes-5gb.fr/?i=1 <br>
+-> https://maxime-derenes.fr/ <br>
 <h2>Linkedin</h2><br>
 -> https://www.linkedin.com/in/maxime-derènes-9b997932a/<br>
 
