@@ -9,6 +9,5 @@
 -> maximederenespro@gmail.com<br><br><br><br>
 
 <p align="center">
-  <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/0deae8d7-6dde-47b4-a014-2ab0075c84f2" />
+  <img width="220" src="https://media.tenor.com/FfDGMp52pkYAAAAM/umamusume-uma-musume.gif" alt="image" />
 </p>
-
