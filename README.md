@@ -7,7 +7,3 @@
 -> https://www.linkedin.com/in/maxime-derènes-9b997932a/<br>
 <h2>Mail Pro</h2>
 -> maximederenespro@gmail.com<br><br><br><br>
-
-<p align="center">
-  <img width="220" src="https://media.tenor.com/FfDGMp52pkYAAAAM/umamusume-uma-musume.gif" alt="image" />
-</p>
